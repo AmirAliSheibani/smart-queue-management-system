@@ -174,8 +174,8 @@ The system follows a **service-oriented backend architecture**, separating busin
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/wait-api.git
-cd wait-api
+git clone https://github.com/AmirAliSheibani/smart-queue-management-system.git
+cd smart-queue-management-system
 
 python -m venv venv
 source venv/bin/activate
